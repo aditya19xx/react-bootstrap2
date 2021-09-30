@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.title-text{
+  margin: 20px;
+  padding: 20px;
+}
+.title-span{
+  color: tomato ;
+  font-size: 1.3em;
+}
